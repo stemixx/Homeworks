@@ -1,3 +1,5 @@
+# Написать функцию, на вход которой подаётся строка текста, а выводом должно быть первое слово строки
+
 def first_word(text: str) -> str:
     first_word = list()
     text_list = list(text)
